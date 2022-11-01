@@ -6,7 +6,7 @@ export default {
         }
     },
     mounted() {
-        console.log('%c ⬆️ ⬇️ ⬆️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ B A ENTER', 'font-size: 1.5rem');
+        console.log('%c ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ B A ENTER', 'font-size: 1.5rem');
     }
 }
 </script>
